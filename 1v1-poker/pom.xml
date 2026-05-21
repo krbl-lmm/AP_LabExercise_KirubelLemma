@@ -38,7 +38,7 @@
                 <version>0.0.8</version>
 
                 <configuration>
-                    <mainClass>com.onevone.poker.App</mainClass>
+                    <mainClass>com.onevone.poker.PokerApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
