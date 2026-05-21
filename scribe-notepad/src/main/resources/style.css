@@ -1,0 +1,44 @@
+/* light mode */
+.root {
+    -fx-background-color: #f4f4f4;
+}
+
+.text-area {
+    -fx-control-inner-background: white;
+    -fx-text-fill: black;
+}
+
+.menu-bar {
+    -fx-background-color: #e0e0e0;
+}
+
+/* dark mode */
+
+.root.dark {
+    -fx-background-color: #1e1e1e;
+}
+
+.root.dark .text-area {
+    -fx-control-inner-background: #1e1e1e;
+    -fx-text-fill: white;
+}
+
+.root.dark .menu-bar {
+    -fx-background-color: #2b2b2b;
+}
+
+.root.dark .menu-bar .label {
+    -fx-text-fill: white;
+}
+
+.root.dark .menu-item .label {
+    -fx-text-fill: white;
+}
+
+.root.dark .menu-item:focused {
+    -fx-background-color: #3a3a3a;
+}
+
+.root.dark .context-menu {
+    -fx-background-color: #2b2b2b;
+}
