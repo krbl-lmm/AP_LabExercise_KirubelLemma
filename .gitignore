@@ -1,0 +1,5 @@
+# Project exclude paths
+/1v1-poker/target/
+/carrier-chat/target/
+/scribe-notepad/target/
+.idea/
