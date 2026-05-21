@@ -38,7 +38,7 @@
                 <version>0.0.8</version>
 
                 <configuration>
-                    <mainClass>com.carrier.chat.App</mainClass>
+                    <mainClass>com.carrier.chat.Client</mainClass>
                 </configuration>
             </plugin>
         </plugins>
